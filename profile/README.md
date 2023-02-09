@@ -1,4 +1,7 @@
 <div align="center">
+
+<img alt="Facebook" title="Facebook" 
+    src="photos/back.png"/>
 <h1 style="font-size:40px">Welcome To AiDock <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <div>
@@ -10,23 +13,23 @@ We strive to lead the charge in AI technology and become the benchmark for custo
 <p align="center">
     <a href="https://twitter.com/dock_ai">
     <img alt="Twitter" title="Twitter" 
-    src="assets/photos/twitter.svg"/>
+    src="/assets/photos/twitter.svg"/>
     </a>
     <a href="https://www.instagram.com/aidockltd/">
     <img alt="Instagram" title="Instagram" 
-    src="assets/photos/Instagram.svg"/>
+    src="photos/Instagram.svg"/>
     </a>
     <a href="https://aidock.net">
     <img alt="Website" title="Our Webstie" 
-    src="assets/photos/web.svg"/>
+    src="/assets/photos/web.svg"/>
     </a>
     <a href="https://www.facebook.com/aidockltd">
     <img alt="Facebook" title="Facebook" 
-    src="assets/photos/facebook.svg"/>
+    src="photos/facebook.svg"/>
     </a>
     <a href="mailto:info@aidock.net?subject=[GitHub]">
     <img alt="Email" title="Email" 
-    src="assets/photos/email.svg"/>
+    src="/assets/photos/email.svg"/>
     </a>
 </p>
 
