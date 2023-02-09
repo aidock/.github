@@ -13,23 +13,23 @@ We strive to lead the charge in AI technology and become the benchmark for custo
 <p align="center">
     <a href="https://twitter.com/dock_ai">
     <img alt="Twitter" title="Twitter" 
-    src="/assets/photos/twitter.svg"/>
+    src="/assets/photos/twitterd.svg"/>
     </a>
     <a href="https://www.instagram.com/aidockltd/">
     <img alt="Instagram" title="Instagram" 
-    src="/assets/photos/Instagram.svg"/>
+    src="/assets/photos/instagramd.svg"/>
     </a>
     <a href="https://aidock.net">
     <img alt="Website" title="Our Webstie" 
-    src="/assets/photos/web.svg"/>
+    src="/assets/photos/webd.svg"/>
     </a>
     <a href="https://www.facebook.com/aidockltd">
     <img alt="Facebook" title="Facebook" 
-    src="/assets/photos/facebook.svg"/>
+    src="/assets/photos/facebookd.svg"/>
     </a>
     <a href="mailto:info@aidock.net?subject=[GitHub]">
     <img alt="Email" title="Email" 
-    src="/assets/photos/email.svg"/>
+    src="/assets/photos/emaild.svg"/>
     </a>
 </p>
 
