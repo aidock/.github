@@ -1,7 +1,7 @@
 <div align="center">
 
-<img alt="Facebook" title="Facebook" 
-    src="./assets/photos/back.png"/>
+<img alt="Background" title="Background" 
+    src="/assets/photos/back.png"/>
 <h1 style="font-size:40px">Welcome To AiDock <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <div>
@@ -17,7 +17,7 @@ We strive to lead the charge in AI technology and become the benchmark for custo
     </a>
     <a href="https://www.instagram.com/aidockltd/">
     <img alt="Instagram" title="Instagram" 
-    src="photos/Instagram.svg"/>
+    src="/assets/photos/Instagram.svg"/>
     </a>
     <a href="https://aidock.net">
     <img alt="Website" title="Our Webstie" 
@@ -25,7 +25,7 @@ We strive to lead the charge in AI technology and become the benchmark for custo
     </a>
     <a href="https://www.facebook.com/aidockltd">
     <img alt="Facebook" title="Facebook" 
-    src="photos/facebook.svg"/>
+    src="/assets/photos/facebook.svg"/>
     </a>
     <a href="mailto:info@aidock.net?subject=[GitHub]">
     <img alt="Email" title="Email" 
